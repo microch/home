@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fengye.org</id>
     <title>枫叶</title>
-    <updated>2020-03-08T10:10:04.465Z</updated>
+    <updated>2020-05-10T23:31:39.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fengye.org"/>
     <link rel="self" href="https://fengye.org/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://fengye.org/images/avatar.png</logo>
     <icon>https://fengye.org/favicon.ico</icon>
     <rights>All rights reserved 2020, 枫叶</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://fengye.org/post/about/</id>
+        <link href="https://fengye.org/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>一个没有内容的静态博客。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>曹小浩</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>软件开发</p>
+<h2 id="联系我呀">📬 <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1464435902&amp;site=qq&amp;menu=yes">联系我呀</a></h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://fengye.org/post/hello-gridea/</id>
